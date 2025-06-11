@@ -1,0 +1,9 @@
+fastapi==0.68.1
+uvicorn==0.15.0
+spacy==3.5.0
+PyPDF2==3.0.1
+python-docx==0.8.11
+scikit-learn==1.0.2
+numpy==1.21.2
+python-multipart==0.0.5
+pydantic==1.8.2
